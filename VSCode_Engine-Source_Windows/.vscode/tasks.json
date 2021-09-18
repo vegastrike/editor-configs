@@ -7,7 +7,10 @@
             "label": "build",
             "type": "shell",
             "command": "script/build.ps1",
-            "group": "build",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
             "presentation": {
                 // Reveal the output only if unrecognized errors occur.
                 "reveal": "always"
