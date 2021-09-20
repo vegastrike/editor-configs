@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}",
+                "${workspaceFolder}/engine",
+                "${workspaceFolder}/engine/src",
+                "${workspaceFolder}/engine/src/cmd",
+                "${workspaceFolder}/build",
+                "/usr/include/python3.7m"
+            ],
+            "defines": [
+                "HAVE_AL",
+                "HAVE_SDL"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-clang-x64",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}
