@@ -1,0 +1,100 @@
+{
+    "files.associations": {
+        "chrono": "cpp",
+        "deque": "cpp",
+        "execution": "cpp",
+        "functional": "cpp",
+        "list": "cpp",
+        "memory": "cpp",
+        "memory_resource": "cpp",
+        "regex": "cpp",
+        "sstream": "cpp",
+        "valarray": "cpp",
+        "vector": "cpp",
+        "xhash": "cpp",
+        "xiosbase": "cpp",
+        "xlocale": "cpp",
+        "xmemory": "cpp",
+        "xstring": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp",
+        "*.ipp": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp",
+        "filesystem": "cpp",
+        "codecvt": "cpp",
+        "format": "cpp",
+        "future": "cpp",
+        "ostream": "cpp",
+        "stdexcept": "cpp",
+        "system_error": "cpp",
+        "xlocbuf": "cpp",
+        "xloctime": "cpp",
+        "numeric": "cpp",
+        "ratio": "cpp",
+        "shared_mutex": "cpp",
+        "algorithm": "cpp",
+        "array": "cpp",
+        "bit": "cpp",
+        "bitset": "cpp",
+        "charconv": "cpp",
+        "fstream": "cpp",
+        "hash_map": "cpp",
+        "initializer_list": "cpp",
+        "iomanip": "cpp",
+        "iterator": "cpp",
+        "locale": "cpp",
+        "map": "cpp",
+        "queue": "cpp",
+        "random": "cpp",
+        "set": "cpp",
+        "stack": "cpp",
+        "string": "cpp",
+        "strstream": "cpp",
+        "type_traits": "cpp",
+        "typeinfo": "cpp",
+        "utility": "cpp",
+        "variant": "cpp",
+        "xlocinfo": "cpp",
+        "xlocmon": "cpp",
+        "xlocnum": "cpp"
+    },
+    "cmake.sourceDirectory": "${workspaceFolder}/engine",
+    "cmake.configureOnOpen": true,
+    "cmake.buildDirectory": "${workspaceFolder}/build",
+    "cmake.configureSettings": {
+        "CMAKE_TOOLCHAIN_FILE": "C:\\Projects\\vcpkg\\scripts\\buildsystems\\vcpkg.cmake"
+    },
+    "cmake.buildBeforeRun": true,
+    "cmake.clearOutputBeforeBuild": true,
+    "cmake.defaultVariants": {
+        "buildType": {
+            "default": "Release",
+            "description": "The build type.",
+            "choices": {
+                "debug": {
+                    "short": "Debug",
+                    "long": "Disable optimizations - include debug information.",
+                    "buildType": "Debug"
+                },
+                "release": {
+                    "short": "Release",
+                    "long": "Optimize for speed - exclude debug information.",
+                    "buildType": "Release"
+                },
+                "minsize": {
+                    "short": "MinSizeRel",
+                    "long": "Optimize for smallest binary size - exclude debug information.",
+                    "buildType": "MinSizeRel"
+                },
+                "reldeb": {
+                    "short": "RelWithDebInfo",
+                    "long": "Optimize for speed - include debug information.",
+                    "buildType": "RelWithDebInfo"
+                }
+            }
+        }
+    },
+    "cmake.saveBeforeBuild": true,
+    "cmake.buildTask": true
+}
