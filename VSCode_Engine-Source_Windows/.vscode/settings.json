@@ -96,5 +96,5 @@
         }
     },
     "cmake.saveBeforeBuild": true,
-    "cmake.buildTask": true
+    "cmake.buildTask": false
 }
