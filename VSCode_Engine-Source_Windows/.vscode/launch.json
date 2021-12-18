@@ -20,7 +20,7 @@
             "type": "cppvsdbg",
             "request": "launch",
             "program": "${workspaceFolder}/bin/vegastrike-engine.exe",
-            "args": [ "-d${workspaceFolder}/../privateer_wcu/" ],
+            "args": [ "-d${workspaceFolder}/../privateer_wcu/", "--debug=3" ],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
             "environment": [],
