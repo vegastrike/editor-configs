@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSharedSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" GENERATION_DIR="$PROJECT_DIR$/../build-debug" CONFIG_NAME="Debug" GENERATION_OPTIONS="-DCMAKE_TOOLCHAIN_FILE=C:/Projects/vcpkg/scripts/buildsystems/vcpkg.cmake -G &quot;Visual Studio 16 2019&quot;" />
+      <configuration PROFILE_NAME="Release" ENABLED="true" GENERATION_DIR="$PROJECT_DIR$/../build-release" CONFIG_NAME="Release" GENERATION_OPTIONS="-DCMAKE_TOOLCHAIN_FILE=C:/Projects/vcpkg/scripts/buildsystems/vcpkg.cmake -G &quot;Visual Studio 16 2019&quot;" />
+    </configurations>
+  </component>
+</project>
