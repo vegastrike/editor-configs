@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="vsUTCS - 9k idle, 1k fighting" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="test/9k_idle_1k_fighting.mission -d/home/stephengt/projects/GitHub/Assets-Production --debug=3" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" WORKING_DIR="file://$PROJECT_DIR$/../../Assets-Production" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Vega_Strike" TARGET_NAME="vegastrike-engine" CONFIG_NAME="Debug - GLVND" RUN_TARGET_PROJECT_NAME="Vega_Strike" RUN_TARGET_NAME="vegastrike-engine">
+    <method v="2">
+      <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
