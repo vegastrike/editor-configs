@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="vsUTCS Sol" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="test\soltest.mission -dC:\Projects\GitHub\Assets-Production --debug=2" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" WORKING_DIR="file://$PROJECT_DIR$/../../Assets-Production" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Vega_Strike" TARGET_NAME="vegastrike-engine" CONFIG_NAME="Debug-Visual Studio" RUN_TARGET_PROJECT_NAME="Vega_Strike" RUN_TARGET_NAME="vegastrike-engine">
+    <method v="2">
+      <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
